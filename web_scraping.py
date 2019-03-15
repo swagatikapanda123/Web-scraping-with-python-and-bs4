@@ -23,6 +23,4 @@ for college_name in college_name_list_items:
     names = college_name.contents[0]
     print(names)
     i=i+1
-    f.writerow([i,names])
-   
-    
+    f.writerow([i,names])updated 
